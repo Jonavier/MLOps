@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+environment/
+Python essential for MLOps/__pycache__/
+Python essential for MLOps/.azureml/
+Python essential for MLOps/creds.py
+az-login.txt
