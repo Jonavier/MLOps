@@ -1,5 +1,5 @@
 # created by virtualenv automatically
-environment/
+environment_MLOps/
 Python essential for MLOps/__pycache__/
 Python essential for MLOps/.azureml/
 Python essential for MLOps/creds.py
